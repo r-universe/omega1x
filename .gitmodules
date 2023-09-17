@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/omega1x/universe
-	shallow = true
 	branch = HEAD
 [submodule "pipenostics"]
 	path = pipenostics
 	url = https://github.com/omega1x/pipenostics
-	shallow = true
-	registered = true
 [submodule "wsif97"]
 	path = wsif97
 	url = https://github.com/omega1x/wsif97
-	shallow = true
-	registered = true
