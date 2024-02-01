@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/omega1x/universe
+	url = https://github.com/omega1x/omega1x.r-universe.dev
 	branch = HEAD
 [submodule "pipenostics"]
 	path = pipenostics
