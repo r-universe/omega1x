@@ -5,6 +5,3 @@
 [submodule "pipenostics"]
 	path = pipenostics
 	url = https://github.com/omega1x/pipenostics
-[submodule "wsif97"]
-	path = wsif97
-	url = https://github.com/omega1x/wsif97
